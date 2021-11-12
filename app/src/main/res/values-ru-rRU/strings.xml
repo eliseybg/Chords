@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Бои &amp; Аккорды</string>
+    <string name="start">Начать?</string>
+    <string name="right_answer_quiz">Вы правы!</string>
+    <string name="wrong_answer_quiz">"Правильный ответ: "</string>
+    <string name="chord_quiz">викторина аккордов</string>
+    <string name="chord_search">поиск аккордов</string>
+    <string name="strumming">бои</string>
+    <string name="learn_chords">учить аккорды</string>
+    <string name="strumming_window">Бои</string>
+    <string name="strike_from_the_sixth_string_to_the_first_n_strike_from_the_first_string_to_the_sixth_n_muting_strings">↓ - strike from the sixth string to the first \n ↑ - strike from the first string to the sixth \n × - muting strings</string>
+    <string name="chord_search_first_open">Поиск Аккордов</string>
+    <string name="search_chord_first_open_text">Here you can find out the name of the chord. To depict a barre, swipe at this fret. To select a fret on a specific string, click on that spot. If a string is being played or not being played, press over the string grid. To select the fret of the first string, click on the arrows to the left of the grid.</string>
+    <string name="ok">Ок</string>
+    <string name="chords_quiz_first_open">Поиск Аккордов</string>
+    <string name="chord_quiz_first_open_text">Choose the correct name at the bottom of the pictured chord!</string>
+    <string name="first_open_settings_info">In the settings you can change the parameters</string>
+    <string name="learn_chords_first_open">Изучение Аккордов</string>
+    <string name="learn_chord__first_open_info">After a certain amount of time, the chord changes, have time to play this chord on the guitar!</string>
+    <string name="strumming_first_open">Popular guitar strumming are presented here, play them with clamped chords!</string>
+    <string name="chord_list">Список аккордов</string>
+    <string name="settings">Настройки</string>
+    <string name="speed">Скорость</string>
+    <string name="duration">Длительность</string>
+    <string name="chords">Аккорды</string>
+    <string name="order">Порядок</string>
+    <string name="amount">Количество</string>
+    <string name="four">четверка</string>
+    <string name="six">шестерка</string>
+    <string name="eight">восьмерка</string>
+    <string name="tsoi">Цоя</string>
+    <string name="spanish">испанский</string>
+    <string name="reggae">регги</string>
+    <string name="downstrum_on_every_beat">проигрыш на каждом ударе</string>
+    <string name="downstrum_and_come_back_twice">проигрыш с возвратом дважды</string>
+    <string name="downstrum_and_come_back_three_times">проигрыш с возвратом трижды</string>
+    <string name="language">🇷🇺</string>
+</resources>

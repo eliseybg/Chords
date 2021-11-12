@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:bottom="@dimen/textViewBackgroundPadding"
+        android:left="@dimen/textViewBackgroundPadding"
+        android:right="@dimen/textViewBackgroundPadding"
+        android:top="@dimen/textViewBackgroundPadding">
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_activated="true" >
+        <shape>
+            <corners android:radius="30dp"/>
+            <solid android:color="#888888"/>
+            <stroke android:width="2dp" android:color="#4E4E4E" />
+        </shape>
+    </item>
+</selector>
+    </item>
+</layer-list>

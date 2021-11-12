@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/mainLinearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal"
+    android:orientation="vertical"
+    android:clickable="false">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="120dp"
+        android:layout_height="100dp"
+        android:background="@drawable/field"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <LinearLayout
+            android:id="@+id/line1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/buttons_style_barre_chord_info"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/line1_sting1"
+                android:layout_width="@dimen/sellStringSizeChordInfo"
+                android:layout_height="@dimen/sellStringSizeChordInfo"
+                android:background="@drawable/buttons_style_sting_chord_info"
+                android:gravity="center"
+                android:textColor="#fff"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/line1_sting2"
+                android:layout_width="@dimen/sellStringSizeChordInfo"
+                android:layout_height="@dimen/sellStringSizeChordInfo"
+                android:background="@drawable/buttons_style_sting_chord_info"
+                android:gravity="center"
+                android:textColor="#fff"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/line1_sting3"
+                android:layout_width="@dimen/sellStringSizeChordInfo"
+                android:layout_height="@dimen/sellStringSizeChordInfo"
+                android:background="@drawable/buttons_style_sting_chord_info"
+                android:gravity="center"
+                android:textColor="#fff"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/line1_sting4"
+                android:layout_width="@dimen/sellStringSizeChordInfo"
+                android:layout_height="@dimen/sellStringSizeChordInfo"
+                android:background="@drawable/buttons_style_sting_chord_info"
+                android:gravity="center"
+                android:textColor="#fff"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/line1_sting5"
+                android:layout_width="@dimen/sellStringSizeChordInfo"
+                android:layout_height="@dimen/sellStringSizeChordInfo"
+                android:background="@drawable/buttons_style_sting_chord_info"
+                android:gravity="center"
+                android:textColor="#fff"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/line1_sting6"
+                android:layout_width="@dimen/sellStringSizeChordInfo"
+                android:layout_height="@dimen/sellStringSizeChordInfo"
+                android:background="@drawable/buttons_style_sting_chord_info"
+                android:gravity="center"
+                android:textColor="#fff"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/line2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/buttons_style_barre_chord_info"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/line2_sting1"
+                android:layout_width="@dimen/sellStringSizeChordInfo"
+                android:layout_height="@dimen/sellStringSizeChordInfo"
+                android:background="@drawable/buttons_style_sting_chord_info"
+                android:gravity="center"
+                android:textColor="#fff"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/line2_sting2"
+                android:layout_width="@dimen/sellStringSizeChordInfo"
+                android:layout_height="@dimen/sellStringSizeChordInfo"
+                android:background="@drawable/buttons_style_sting_chord_info"
+                android:gravity="center"
+                android:textColor="#fff"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/line2_sting3"
+                android:layout_width="@dimen/sellStringSizeChordInfo"
+                android:layout_height="@dimen/sellStringSizeChordInfo"
+                android:background="@drawable/buttons_style_sting_chord_info"
+                android:gravity="center"
+                android:textColor="#fff"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/line2_sting4"
+                android:layout_width="@dimen/sellStringSizeChordInfo"
+                android:layout_height="@dimen/sellStringSizeChordInfo"
+                android:background="@drawable/buttons_style_sting_chord_info"
+                android:gravity="center"
+                android:textColor="#fff"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/line2_sting5"
+                android:layout_width="@dimen/sellStringSizeChordInfo"
+                android:layout_height="@dimen/sellStringSizeChordInfo"
+                android:background="@drawable/buttons_style_sting_chord_info"
+                android:gravity="center"
+                android:textColor="#fff"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/line2_sting6"
+                android:layout_width="@dimen/sellStringSizeChordInfo"
+                android:layout_height="@dimen/sellStringSizeChordInfo"
+                android:background="@drawable/buttons_style_sting_chord_info"
+                android:gravity="center"
+                android:textColor="#fff"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/line3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/buttons_style_barre_chord_info"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/line3_sting1"
+                android:layout_width="@dimen/sellStringSizeChordInfo"
+                android:layout_height="@dimen/sellStringSizeChordInfo"
+                android:background="@drawable/buttons_style_sting_chord_info"
+                android:gravity="center"
+                android:textColor="#fff"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/line3_sting2"
+                android:layout_width="@dimen/sellStringSizeChordInfo"
+                android:layout_height="@dimen/sellStringSizeChordInfo"
+                android:background="@drawable/buttons_style_sting_chord_info"
+                android:gravity="center"
+                android:textColor="#fff"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/line3_sting3"
+                android:layout_width="@dimen/sellStringSizeChordInfo"
+                android:layout_height="@dimen/sellStringSizeChordInfo"
+                android:background="@drawable/buttons_style_sting_chord_info"
+                android:gravity="center"
+                android:textColor="#fff"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/line3_sting4"
+                android:layout_width="@dimen/sellStringSizeChordInfo"
+                android:layout_height="@dimen/sellStringSizeChordInfo"
+                android:background="@drawable/buttons_style_sting_chord_info"
+                android:gravity="center"
+                android:textColor="#fff"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/line3_sting5"
+                android:layout_width="@dimen/sellStringSizeChordInfo"
+                android:layout_height="@dimen/sellStringSizeChordInfo"
+                android:background="@drawable/buttons_style_sting_chord_info"
+                android:gravity="center"
+                android:textColor="#fff"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/line3_sting6"
+                android:layout_width="@dimen/sellStringSizeChordInfo"
+                android:layout_height="@dimen/sellStringSizeChordInfo"
+                android:background="@drawable/buttons_style_sting_chord_info"
+                android:gravity="center"
+                android:textColor="#fff"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/line4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/buttons_style_barre_chord_info"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/line4_sting1"
+                android:layout_width="@dimen/sellStringSizeChordInfo"
+                android:layout_height="@dimen/sellStringSizeChordInfo"
+                android:background="@drawable/buttons_style_sting_chord_info"
+                android:gravity="center"
+                android:textColor="#fff"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/line4_sting2"
+                android:layout_width="@dimen/sellStringSizeChordInfo"
+                android:layout_height="@dimen/sellStringSizeChordInfo"
+                android:background="@drawable/buttons_style_sting_chord_info"
+                android:gravity="center"
+                android:textColor="#fff"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/line4_sting3"
+                android:layout_width="@dimen/sellStringSizeChordInfo"
+                android:layout_height="@dimen/sellStringSizeChordInfo"
+                android:background="@drawable/buttons_style_sting_chord_info"
+                android:gravity="center"
+                android:textColor="#fff"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/line4_sting4"
+                android:layout_width="@dimen/sellStringSizeChordInfo"
+                android:layout_height="@dimen/sellStringSizeChordInfo"
+                android:background="@drawable/buttons_style_sting_chord_info"
+                android:gravity="center"
+                android:textColor="#fff"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/line4_sting5"
+                android:layout_width="@dimen/sellStringSizeChordInfo"
+                android:layout_height="@dimen/sellStringSizeChordInfo"
+                android:background="@drawable/buttons_style_sting_chord_info"
+                android:gravity="center"
+                android:textColor="#fff"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/line4_sting6"
+                android:layout_width="@dimen/sellStringSizeChordInfo"
+                android:layout_height="@dimen/sellStringSizeChordInfo"
+                android:background="@drawable/buttons_style_sting_chord_info"
+                android:gravity="center"
+                android:textColor="#fff"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/line5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/buttons_style_barre_chord_info"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/line5_sting1"
+                android:layout_width="@dimen/sellStringSizeChordInfo"
+                android:layout_height="@dimen/sellStringSizeChordInfo"
+                android:background="@drawable/buttons_style_sting_chord_info"
+                android:gravity="center"
+                android:textColor="#fff"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/line5_sting2"
+                android:layout_width="@dimen/sellStringSizeChordInfo"
+                android:layout_height="@dimen/sellStringSizeChordInfo"
+                android:background="@drawable/buttons_style_sting_chord_info"
+                android:gravity="center"
+                android:textColor="#fff"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/line5_sting3"
+                android:layout_width="@dimen/sellStringSizeChordInfo"
+                android:layout_height="@dimen/sellStringSizeChordInfo"
+                android:background="@drawable/buttons_style_sting_chord_info"
+                android:gravity="center"
+                android:textColor="#fff"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/line5_sting4"
+                android:layout_width="@dimen/sellStringSizeChordInfo"
+                android:layout_height="@dimen/sellStringSizeChordInfo"
+                android:background="@drawable/buttons_style_sting_chord_info"
+                android:gravity="center"
+                android:textColor="#fff"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/line5_sting5"
+                android:layout_width="@dimen/sellStringSizeChordInfo"
+                android:layout_height="@dimen/sellStringSizeChordInfo"
+                android:background="@drawable/buttons_style_sting_chord_info"
+                android:gravity="center"
+                android:textColor="#fff"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/line5_sting6"
+                android:layout_width="@dimen/sellStringSizeChordInfo"
+                android:layout_height="@dimen/sellStringSizeChordInfo"
+                android:background="@drawable/buttons_style_sting_chord_info"
+                android:gravity="center"
+                android:textColor="#fff"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="116dp"
+        android:layout_marginBottom="80dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="@+id/linearLayout"
+        app:layout_constraintEnd_toEndOf="@+id/linearLayout">
+
+
+        <TextView
+            android:id="@+id/guitarFret"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="1"
+            android:textColor="#323232"
+            android:textSize="14sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout3"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toTopOf="@+id/linearLayout"
+        app:layout_constraintEnd_toEndOf="@+id/linearLayout"
+        app:layout_constraintStart_toStartOf="@+id/linearLayout">
+
+        <TextView
+            android:id="@+id/openString_1"
+            android:layout_width="@dimen/sellStringSizeChordInfo"
+            android:layout_height="wrap_content"
+            android:gravity="center|bottom"
+            android:text="○"
+            android:textSize="@dimen/textViewTextSizeOpenCloseStringChordInfo" />
+
+        <TextView
+            android:id="@+id/openString_2"
+            android:layout_width="@dimen/sellStringSizeChordInfo"
+            android:layout_height="wrap_content"
+            android:gravity="center|bottom"
+            android:text="○"
+            android:textSize="@dimen/textViewTextSizeOpenCloseStringChordInfo" />
+
+        <TextView
+            android:id="@+id/openString_3"
+            android:layout_width="@dimen/sellStringSizeChordInfo"
+            android:layout_height="wrap_content"
+            android:gravity="center|bottom"
+            android:text="○"
+            android:textSize="@dimen/textViewTextSizeOpenCloseStringChordInfo" />
+
+        <TextView
+            android:id="@+id/openString_4"
+            android:layout_width="@dimen/sellStringSizeChordInfo"
+            android:layout_height="wrap_content"
+            android:gravity="center|bottom"
+            android:text="○"
+            android:textSize="@dimen/textViewTextSizeOpenCloseStringChordInfo" />
+
+        <TextView
+            android:id="@+id/openString_5"
+            android:layout_width="@dimen/sellStringSizeChordInfo"
+            android:layout_height="wrap_content"
+            android:gravity="center|bottom"
+            android:text="○"
+            android:textSize="@dimen/textViewTextSizeOpenCloseStringChordInfo" />
+
+        <TextView
+            android:id="@+id/openString_6"
+            android:layout_width="@dimen/sellStringSizeChordInfo"
+            android:layout_height="wrap_content"
+            android:gravity="center|bottom"
+            android:text="○"
+            android:textSize="@dimen/textViewTextSizeOpenCloseStringChordInfo" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/chordName"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="18dp"
+        android:fontFamily="@font/acme"
+        android:gravity="center"
+        android:text=""
+        android:textSize="40sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toTopOf="@+id/linearLayout"
+        app:layout_constraintEnd_toEndOf="@+id/linearLayout"
+        app:layout_constraintStart_toStartOf="@+id/linearLayout" />
+</androidx.constraintlayout.widget.ConstraintLayout>

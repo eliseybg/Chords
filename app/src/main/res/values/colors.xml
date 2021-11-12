@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#B9B9B9</color>
+    <color name="colorPrimaryDark">#C9ECBB39</color>
+    <color name="colorAccent">#74A7FF</color>
+    <color name="icon_grey">#FDECC0</color>
+    <color name="splashScreen">#0f235e</color>
+<!--    <color name="backgroundColor">#fcfcfc</color>-->
+    <color name="backgroundColor">#C9ECBB39</color>
+<!--    FFEA60-->
+    <color name="backgroundColorSettings">#FBFA9D</color>
+    <color name="buttonBackgroundColorUnpressed">#C4F89E1E</color>
+    <color name="buttonBackgroundColorPressed">#F89E1E</color>
+    <color name="SettingsButtonBackgroundColorActivated">#DDC20A</color>
+    <color name="SettingsButtonBackgroundColorUnpressed">#E4E37E</color>
+    <color name="SettingsTimeTextColor">#87867B</color>
+<!--    <color name="SettingsButtonBackgroundColorUnpressed">#EDD742</color>-->
+    <color name="buttonTextColor">#FFFFFF</color>
+<!--    FBFA9D-->
+    <color name="learnChordsBackground">#FBFA9D</color>
+    <color name="startChordsTextColor">#575757</color>
+
+    <color name="startWindowBackgroundColor">#FFE496</color>
+    <color name="startWindowBackgroundStrokeColor">#CDA531</color>
+
+</resources>

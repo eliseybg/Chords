@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Strumming &amp; Chords</string>
+    <string name="start">Start?</string>
+    <string name="right_answer_quiz">You are right!</string>
+    <string name="wrong_answer_quiz">Right answer: </string>
+    <string name="chord_quiz">chord quiz</string>
+    <string name="chord_search">chord search</string>
+    <string name="strumming">strumming</string>
+    <string name="learn_chords">learn chords</string>
+    <string name="strumming_window">Strumming</string>
+    <string name="strike_from_the_sixth_string_to_the_first_n_strike_from_the_first_string_to_the_sixth_n_muting_strings">↓ - strike from the sixth string to the first \n ↑ - strike from the first string to the sixth \n × - muting strings</string>
+    <string name="chord_search_first_open">Chord Search</string>
+    <string name="search_chord_first_open_text">Here you can find out the name of the chord. To depict a barre, swipe at this fret. To select a fret on a specific string, click on that spot. If a string is being played or not being played, press over the string grid. To select the fret of the first string, click on the arrows to the left of the grid.</string>
+    <string name="ok">Ok</string>
+    <string name="chords_quiz_first_open">Chords Quiz</string>
+    <string name="chord_quiz_first_open_text">Choose the correct name at the bottom of the pictured chord!</string>
+    <string name="first_open_settings_info">In the settings you can change the parameters</string>
+    <string name="learn_chords_first_open">Learn Chords</string>
+    <string name="learn_chord__first_open_info">After a certain amount of time, the chord changes, have time to play this chord on the guitar!</string>
+    <string name="strumming_first_open">Popular guitar strumming are presented here, play them with clamped chords!</string>
+    <string name="chord_list">Chord list</string>
+    <string name="settings">Settings</string>
+    <string name="speed">Speed</string>
+    <string name="duration">Duration</string>
+    <string name="chords">Chords</string>
+    <string name="order">Order</string>
+    <string name="amount">Amount</string>
+    <string name="four">four</string>
+    <string name="six">six</string>
+    <string name="eight">eight</string>
+    <string name="spanish">Spanish</string>
+    <string name="reggae">reggae</string>
+    <string name="downstrum_on_every_beat">downstrum on every beat</string>
+    <string name="downstrum_and_come_back_twice">downstrum and come back twice</string>
+    <string name="downstrum_and_come_back_three_times">downstrum and come back three times</string>
+    <string name="tsoi">Tsoi</string>
+    <string name="language">🇵🇱</string>
+</resources>

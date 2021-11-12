@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textViewSize">45dp</dimen>
+    <dimen name="sellStringSizeChordInfo">20dp</dimen>
+    <dimen name="textViewBackgroundPadding">10dp</dimen>
+    <dimen name="textViewTextSizeOpenCloseString">50sp</dimen>
+    <dimen name="textViewTextSizeOpenCloseStringChordInfo">18sp</dimen>
+    <dimen name="mainMenuMarginButtons">10dp</dimen>
+    <dimen name="mainMenuPaddingButtonsTopBottom">10dp</dimen>
+    <dimen name="mainMenuPaddingButtonsStartEnd">25dp</dimen>
+</resources>

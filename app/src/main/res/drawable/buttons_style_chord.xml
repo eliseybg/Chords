@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:bottom="5dp"
+        android:top="5dp">
+    <selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_activated="true" >
+        <shape>
+            <corners android:radius="30dp"/>
+            <solid android:color="@color/SettingsButtonBackgroundColorActivated"/>
+        </shape>
+    </item>
+
+        <item >
+            <shape>
+                <corners android:radius="30dp"/>
+                <solid android:color="@color/SettingsButtonBackgroundColorUnpressed"/>
+            </shape>
+        </item>
+    </selector>
+    </item>
+</layer-list>
